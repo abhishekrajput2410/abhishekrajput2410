@@ -61,6 +61,13 @@
 </p>
 
 ---
+## 📍 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekrajput2410&style=flat-square&color=blue" alt="visitor badge" />
+</p>
+
+---
 
 ## 📈 Activity Graph
 
@@ -69,6 +76,7 @@
 </p>
 
 ---
+
 
 ## 📫 Connect with Me
 
