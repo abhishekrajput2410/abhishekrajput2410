@@ -17,11 +17,25 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building **creative UI projects** & **mini web apps**
-- 🌱 Exploring **React**, **MongoDB**, and **modern JavaScript**
-- 🤝 Open to collaborations on **Frontend Projects** & **Hackathons**
-- 🧠 Always up for a coding challenge or UI redesign
+<table>
+  <tr>
+    <td width="60%">
+
+- 🔭 Currently building **creative UI projects** & **mini web apps**  
+- 🌱 Exploring **React**, **MongoDB**, and **modern JavaScript**  
+- 🤝 Open to collaborations on **Frontend Projects** & **Hackathons**  
+- 🧠 Always up for a coding challenge or UI redesign  
 - ⚡ *Fun Fact: I debug better at midnight and write cleaner code after coffee* ☕
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="3D Developer Workspace" width="100%" style="border-radius: 12px;" />
+
+</td>
+  </tr>
+</table>
+
 
 ---
 
