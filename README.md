@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=435&lines=Crafting+UI+that+Feels+Like+Magic;Code.+Create.+Collaborate.+Repeat.;Frontend+Developer+%7C+React+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=435&lines=Crafting+UI+that+Feels+Like+Magic;Code.+Create.+Collaborate.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
