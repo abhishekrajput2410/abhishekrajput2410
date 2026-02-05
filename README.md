@@ -23,7 +23,7 @@
 - 🌱 Exploring **React**, **MongoDB**, and **modern JavaScript**  
 - 🤝 Open to collaborations on **Frontend Projects** & **Hackathons**  
 - 🧠 Always up for a coding challenge or UI redesign  
-- ⚡ *Fun Fact: I debug better at midnight and write cleaner code after coffee* ☕
+- ⚡ *Fun Fact: I debug better at midnight and write cleaner code after tea* ☕
 
 </td>
 <td width="40%" align="center">
