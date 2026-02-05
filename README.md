@@ -59,18 +59,9 @@
 > A React app to search and explore Pokémon by type  
 • [📁 Code](https://github.com/abhishekrajput2410/Pokemon-)
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrajput2410&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrajput2410&theme=tokyonight" width="45%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrajput2410&layout=compact&theme=tokyonight" width="45%" />
-</p>
 
 ---
 
