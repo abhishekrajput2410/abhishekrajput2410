@@ -80,7 +80,7 @@
   <a href="mailto:AbhishekkumarRajput2410@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishekrajput2410/">
+  <a href="https://www.linkedin.com/in/abhishek-rajput-ak24102005/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/AbhishekRaj2410?t=3dKVcvAvY6tjOTzCA-CiUw&s=08">
